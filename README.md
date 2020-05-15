@@ -11,13 +11,17 @@
 # Content
 
 * [Awesome platforms](#awesome-platforms)
+* [Other](#other)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
 
 # Awesome platforms
 
+**i18n**
+
 * [Crowdin](https://crowdin.com/) - is a closed source cloud-based localization technology and services company. Offered as a software as a service for commercial products and free of charge for non-commercial open source projects and educational projects
+* [GitLocalize](https://gitlocalize.com/) - is a powerful localization platform that syncs with your GitHub repository and lets you continuously translate its content.
 * [LocaleApp](https://www.localeapp.com/) - Locale: Effective App Localization and Translation
 * [Transifex](https://www.transifex.com/) - is a proprietary, web-based translation platform, globalization management system (GMS).
 * [Weblate](https://weblate.org/) - is a platform for one of the most positive and empowering communities of libre software
