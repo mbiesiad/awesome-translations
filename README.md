@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-😎 Awesome lists about Internationalization & localization stuff. Translations!
+😎 Awesome lists about Internationalization & localization stuff. Translations! l10n, g11n, m17n, i18n.
 
 ![earth-night](https://github.com/mbiesiad/awesome-translations/blob/master/media/earth-night.png)
 
@@ -29,8 +29,10 @@
 
 # Other
 
+* [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide
 * [I18next](https://www.i18next.com/) - is an internationalization-framework written in and for JavaScript
 * [Google Crowdsource](https://crowdsource.google.com/) - is a crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with Translation and translation validation section)
+* [Localizejs](https://localizejs.com/)
 
 ![earth](https://github.com/mbiesiad/awesome-translations/blob/master/media/earth.png)
 
