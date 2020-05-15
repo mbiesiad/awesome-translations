@@ -12,6 +12,7 @@
 
 * [Awesome platforms](#awesome-platforms)
 * [Other](#other)
+* [Articles](#articles)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
@@ -30,9 +31,22 @@
 # Other
 
 * [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide
+* [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - i18n Manager
+* [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps
 * [I18next](https://www.i18next.com/) - is an internationalization-framework written in and for JavaScript
 * [Google Crowdsource](https://crowdsource.google.com/) - is a crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with Translation and translation validation section)
 * [Localizejs](https://localizejs.com/)
+* [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - APIs
+* [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage
+* [react-i18next](https://react.i18next.com/) - is a powerful internationalization framework for React / React Native which is based on i18next
+* [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails Internationalization (I18n) API
+* [Quasar I18n](https://quasar.dev/options/app-internationalization) - App Internationalization (I18n)
+* [Vue I18n](https://kazupon.github.io/vue-i18n/) - is internationalization plugin for Vue.js
+
+# Articles
+
+* [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing Your App
+* [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. Internationalization
 
 ![earth](https://github.com/mbiesiad/awesome-translations/blob/master/media/earth.png)
 
