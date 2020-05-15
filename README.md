@@ -22,6 +22,10 @@
 * [Transifex](https://www.transifex.com/) - is a proprietary, web-based translation platform, globalization management system (GMS).
 * [Weblate](https://weblate.org/) - is a platform for one of the most positive and empowering communities of libre software
 
+# Other
+
+* [Google Crowdsource](https://crowdsource.google.com/) - is a crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with Translation and translation validation section)
+
 ![earth](https://github.com/mbiesiad/awesome-translations/blob/master/media/earth.png)
 
 > _Source: Pexels.com, image by Pixabay: https://www.pexels.com/photo/earth-space-universe-globe-41953/_
