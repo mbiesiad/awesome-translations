@@ -23,11 +23,13 @@
 * [Crowdin](https://crowdin.com/) - is a closed source cloud-based localization technology and services company. Offered as a software as a service for commercial products and free of charge for non-commercial open source projects and educational projects
 * [GitLocalize](https://gitlocalize.com/) - is a powerful localization platform that syncs with your GitHub repository and lets you continuously translate its content.
 * [LocaleApp](https://www.localeapp.com/) - Locale: Effective App Localization and Translation
-* [Transifex](https://www.transifex.com/) - is a proprietary, web-based translation platform, globalization management system (GMS).
+* [Transifex](https://www.transifex.com/) - is a proprietary, web-based translation platform, globalization management system (GMS)
 * [Weblate](https://weblate.org/) - is a platform for one of the most positive and empowering communities of libre software
+* [Zanata](http://zanata.org/) - is a web-based translation platform for translators, content creators and developers to manage localisation projects
 
 # Other
 
+* [I18next](https://www.i18next.com/) - is an internationalization-framework written in and for JavaScript
 * [Google Crowdsource](https://crowdsource.google.com/) - is a crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with Translation and translation validation section)
 
 ![earth](https://github.com/mbiesiad/awesome-translations/blob/master/media/earth.png)
