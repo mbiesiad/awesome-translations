@@ -10,9 +10,15 @@
 
 # Content
 
+* [Awesome platforms](#awesome-platforms)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
+
+# Awesome platforms
+
+* [Crowdin](https://crowdin.com/) - is a closed source cloud-based localization technology and services company. Offered as a software as a service for commercial products and free of charge for non-commercial open source projects and educational projects
+* [Weblate](https://weblate.org/) - is a platform for one of the most positive and empowering communities of libre software
 
 # Contributing
 
