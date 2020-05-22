@@ -46,7 +46,11 @@
 
 # Articles
 
+* [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapter 8: I18N and L10N
 * [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing Your App
+* [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - "Software Globalization and Adding Languages on Computers and Mobile Devices" by Craig Cummings (slides)
+* [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
+* [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between I18n/L10n/G11n and specifically what does each mean for development?
 * [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. Internationalization
 
 ![earth](https://github.com/mbiesiad/awesome-translations/blob/master/media/earth.png)
