@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-😎 Awesome lists about Internationalization & localization stuff. Translations! l10n, g11n, m17n, i18n.
+😎 Awesome lists about Internationalization & localization stuff. Translations! t9n, l10n, g11n, m17n, i18n.
 
 ![earth-night](https://github.com/mbiesiad/awesome-translations/blob/master/media/earth-night.png)
 
