@@ -43,6 +43,7 @@
 * [Quasar I18n](https://quasar.dev/options/app-internationalization) - App Internationalization (I18n)
 * [Vue I18n](https://kazupon.github.io/vue-i18n/) - is internationalization plugin for Vue.js
 * [LocalizationLab](https://www.localizationlab.org/) - global community of 7000+ contributors who support the translation and localization of Internet freedom tools - technologies that address access, security, digital literacy, and anonymity online to ensure that people around the world have safe avenues for accessing information on the Internet.
+* [i18n Ally](https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally) - all in one i18n extension for VSCode
 
 # Articles
 
