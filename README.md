@@ -37,7 +37,7 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 * [LocalizationLab](https://www.localizationlab.org/) - Global community of 7000+ contributors who support the translation and localization of Internet freedom tools.
 * [i18n Ally](https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally) - Extension for VSCode, all in one about i18n.
 
-# Articles
+## Articles
 
 * [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapter 8: I18N and L10N.
 * [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing Your App.
