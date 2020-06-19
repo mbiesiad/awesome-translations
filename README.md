@@ -11,7 +11,7 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 
 ## Awesome platforms
 
-**i18n**
+**I18n.**
 
 * [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
 * [GitLocalize](https://gitlocalize.com/) - Powerful localization platform that syncs with your GitHub repository and lets you continuously translate its content.
