@@ -27,7 +27,7 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 * [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
 * [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
 * [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with Translation and translation validation section).
-* [Localizejs](https://localizejs.com/)
+* [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow
 * [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - APIs.
 * [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
 * [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
