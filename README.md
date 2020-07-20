@@ -4,10 +4,16 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 
 ## Contents
 
-1. [Awesome platforms](#awesome-platforms)
-2. [Other](#other)
-3. [Articles](#articles)
-4. [Code of Conduct](#code-of-conduct)
+* [Translations](#translations)
+* [Awesome platforms](#awesome-platforms)
+* [Other](#other)
+* [Articles](#articles)
+* [Code of Conduct](#code-of-conduct)
+
+## Translations
+
+* [English](https://github.com/mbiesiad/awesome-translations)
+* [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 
 ## Awesome platforms
 
