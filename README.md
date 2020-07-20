@@ -1,6 +1,6 @@
 # Awesome Translations [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Niesamowite listy na temat internacjonalizacji i lokalizacji. T9n, l10n, g11n, m17n, i18n.
+Niesamowite listy materiałów odnośnie internacjonalizacji i lokalizacji. T9n, l10n, g11n, m17n, i18n.
 
 ## Zawartość
 
