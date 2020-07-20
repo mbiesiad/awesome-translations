@@ -1,15 +1,15 @@
 # Awesome Translations [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, m17n, i18n.
+Niesamowite listy na temat internacjonalizacji i lokalizacji. T9n, l10n, g11n, m17n, i18n.
 
-## Contents
+## Zawartość
 
-1. [Awesome platforms](#awesome-platforms)
-2. [Other](#other)
-3. [Articles](#articles)
-4. [Code of Conduct](#code-of-conduct)
+1. [Niesamowite platformy](#niesamowite-platformy)
+2. [Inne](#inne)
+3. [Artykuły](#artykuły)
+4. [Kodeks postępowania](#kodeks-postępowania)
 
-## Awesome platforms
+## Niesamowite platformy
 
 **I18n.**
 
@@ -20,7 +20,7 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 * [Weblate](https://weblate.org/) - Platform for one of the most positive and empowering communities of libre software.
 * [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
 
-## Other
+## Inne
 
 * [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide.
 * [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager.
@@ -37,19 +37,19 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 * [LocalizationLab](https://www.localizationlab.org/) - Global community of 7000+ contributors who support the translation and localization of Internet freedom tools.
 * [i18n Ally](https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally) - Extension for VSCode, all in one about i18n.
 
-## Articles
+## Artykuły
 
 * [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapter 8: I18N and L10N.
 * [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing Your App.
 * [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - "Software Globalization and Adding Languages on Computers and Mobile Devices" by Craig Cummings (slides).
 * [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
-* [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between I18n/L10n/G11n and specifically what does each mean for development?
-* [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. Internationalization.
+* [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - Jakie są rzeczywiste różnice między I18n/L10n/G11n i co konkretnie oznacza każde z nich dla rozwoju oprogramowania?
+* [W3C](https://www.w3.org/International/questions/qa-i18n) - Lokalizacja vs. internacjonalizacja.
 
-## Contributing
+## Współtworzenie
 
-Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
+Mile widziane! Zapoznaj się najpierw z [Contribution Guidelines](CONTRIBUTING.md).
 
-## Code of Conduct
+## Kodeks postępowania
 
-See [Code of Conduct](CODE-OF-CONDUCT.md).
+Zobacz [Code of Conduct](CODE-OF-CONDUCT.md).
