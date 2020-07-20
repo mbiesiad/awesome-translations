@@ -4,45 +4,51 @@ Niesamowite listy materiałów odnośnie internacjonalizacji i lokalizacji. T9n,
 
 ## Zawartość
 
-1. [Niesamowite platformy](#niesamowite-platformy)
-2. [Inne](#inne)
-3. [Artykuły](#artykuły)
-4. [Kodeks postępowania](#kodeks-postępowania)
+* [Tłumaczenia](#tłumaczenia)
+* [Niesamowite platformy](#niesamowite-platformy)
+* [Inne](#inne)
+* [Artykuły](#artykuły)
+* [Kodeks postępowania](#kodeks-postępowania)
+
+## Tłumaczenia
+
+* [English](https://github.com/mbiesiad/awesome-translations)
+* [Polski](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 
 ## Niesamowite platformy
 
 **I18n.**
 
-* [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
-* [GitLocalize](https://gitlocalize.com/) - Powerful localization platform that syncs with your GitHub repository and lets you continuously translate its content.
-* [LocaleApp](https://www.localeapp.com/) - Effective app localization and translation.
-* [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
-* [Weblate](https://weblate.org/) - Platform for one of the most positive and empowering communities of libre software.
-* [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
+* [Crowdin](https://crowdin.com/) - Firma oferująca technologie i usługi lokalizacji oparte na chmurze, oprogramowanie o zamkniętym źródle.
+* [GitLocalize](https://gitlocalize.com/) - Potężna platforma dotycząca lokalizacji, która synchronizuje się z repozytorium GitHub i umożliwia ciągłe tłumaczenie jego zawartości.
+* [LocaleApp](https://www.localeapp.com/) - Efektywna lokalizacja i tłumaczenie aplikacji.
+* [Transifex](https://www.transifex.com/) - Webowa platforma tłumaczeniowa, system zarządzania globalizacją (GMS).
+* [Weblate](https://weblate.org/) - Platforma dla jednej z najbardziej pozytywnych i wzmacniających społeczności wolnego (libre) oprogramowania.
+* [Zanata](http://zanata.org/) - Webowa platforma tłumaczeniowa dla tłumaczy, twórców treści i programistów do zarządzania lokalizacją dla projektów.
 
 ## Inne
 
-* [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide.
-* [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager.
-* [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
-* [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
-* [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with Translation and translation validation section).
-* [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
-* [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - APIs.
-* [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
-* [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
-* [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails Internationalization (I18n) API.
-* [Quasar I18n](https://quasar.dev/options/app-internationalization) - App Internationalization (I18n).
-* [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
-* [LocalizationLab](https://www.localizationlab.org/) - Global community of 7000+ contributors who support the translation and localization of Internet freedom tools.
-* [i18n Ally](https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally) - Extension for VSCode, all in one about i18n.
+* [Angular and i18n](https://angular.io/guide/i18n) - Przewodnik Angular i18n.
+* [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - Menedżer I18n.
+* [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Umiędzynarodowienie aplikacji Flutter.
+* [I18next](https://www.i18next.com/) - Framework umiędzynarodowienia napisany w języku JavaScript i dla niego.
+* [Google Crowdsource](https://crowdsource.google.com/) - Platforma crowdsourcingowa opracowana przez Google miała na celu ulepszenie szeregu usług Google poprzez szkolenie z różnych algorytmów (z sekcją tłumaczenia i sprawdzania poprawności tłumaczenia).
+* [Localizejs](https://localizejs.com/) - Tłumaczenia stron internetowych i aplikacji na nowe języki i usprawnienie procesu tłumaczenia.
+* [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Interfejsy API.
+* [npm i18n](https://www.npmjs.com/package/i18n) - Lekki, prosty moduł tłumaczeniowy z dynamicznym przechowywaniem json.
+* [react-i18next](https://react.i18next.com/) - Potężny framework internacjonalizacji dla React / React Native oparty na i18next.
+* [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Interfejs API Rails internacjonalizacji (I18n).
+* [Quasar I18n](https://quasar.dev/options/app-internationalization) - Umiędzynarodowienie aplikacji (I18n).
+* [Vue I18n](https://kazupon.github.io/vue-i18n/) - Wtyczka do internacjonalizacji dla Vue.js.
+* [LocalizationLab](https://www.localizationlab.org/) - Globalna społeczność ponad 7000 współtwórców, którzy wspierają tłumaczenie i lokalizację narzędzi wolności w Internecie.
+* [i18n Ally](https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally) - Rozszerzenie dla VSCode, wszystko w jednym odnośnie i18n.
 
 ## Artykuły
 
-* [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapter 8: I18N and L10N.
-* [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing Your App.
-* [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - "Software Globalization and Adding Languages on Computers and Mobile Devices" by Craig Cummings (slides).
-* [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
+* [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Rozdział 8: I18N oraz L10N.
+* [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Umiędzynarodowienie twojej aplikacji.
+* [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - "Software Globalization and Adding Languages on Computers and Mobile Devices" od Craiga Cummingsa (prezentacja).
+* [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Lokalizacja i internacjonalizacja, jaka jest różnica?
 * [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - Jakie są rzeczywiste różnice między I18n/L10n/G11n i co konkretnie oznacza każde z nich dla rozwoju oprogramowania?
 * [W3C](https://www.w3.org/International/questions/qa-i18n) - Lokalizacja vs. internacjonalizacja.
 
