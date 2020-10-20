@@ -7,6 +7,7 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 * [Translations](#translations)
 * [Awesome platforms](#awesome-platforms)
 * [Other](#other)
+* [Apps](#apps)
 * [Articles](#articles)
 * [Code of Conduct](#code-of-conduct)
 
@@ -25,6 +26,10 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 * [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
 * [Weblate](https://weblate.org/) - Platform for one of the most positive and empowering communities of libre software.
 * [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
+
+## Apps
+
+* [RTranslator](https://github.com/niedev/RTranslator) - The first universal translator app based on Google's API.
 
 ## Other
 
