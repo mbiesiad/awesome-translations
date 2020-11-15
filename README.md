@@ -27,6 +27,7 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 - [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
 - [Weblate](https://weblate.org/) - Platform for one of the most positive and empowering communities of libre software.
 - [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
+- [Traduora](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
 
 ## Apps
 
@@ -46,6 +47,10 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 - [Quasar I18n](https://quasar.dev/options/app-internationalization) - App Internationalization (I18n) in Quasar framework.
 - [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
 - [i18n Ally](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
+- [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use Cloud Translation API by Google in Swift.
+- [translate](https://github.com/translate/translate) - Is a set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+- [Pootle](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
+- [Translator](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft(Bing), Baidu, Alibaba, Tencent, NetEase(Youdao), Sogou, Deepl, etc.
 
 ## Articles
 
