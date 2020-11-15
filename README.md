@@ -38,7 +38,7 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 
 ## Tools
 
-- [deep-translator](https://github.com/nidhaloff/deep-translator) A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+- [deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
 - [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
 - [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
 - [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
