@@ -6,8 +6,8 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 
 * [Translations](#translations)
 * [Awesome platforms](#awesome-platforms)
-* [Other](#other)
 * [Apps](#apps)
+* [Other](#other)
 * [Articles](#articles)
 * [Code of Conduct](#code-of-conduct)
 
@@ -29,7 +29,7 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 
 ## Apps
 
-* [RTranslator](https://github.com/niedev/RTranslator) - The first universal translator app based on Google's API.
+* [RTranslator](https://github.com/niedev/RTranslator) - The first simultaneous translator app based on Google's API.
 
 ## Other
 
