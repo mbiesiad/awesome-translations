@@ -9,6 +9,7 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 * [Apps](#apps)
 * [Other](#other)
 * [Articles](#articles)
+* [Code of Conduct](#code-of-conduct)
 
 ## Translations
 
