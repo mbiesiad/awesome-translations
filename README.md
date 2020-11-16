@@ -10,7 +10,6 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 - [Tools](#tools)
 - [Articles](#articles)
 - [Other](#other)
-- [Code of Conduct](#code-of-conduct)
 
 ## Translations
 
@@ -71,8 +70,4 @@ Awesome lists about Internationalization & localization stuff. T9n, l10n, g11n, 
 
 ## Contributing
 
-Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) first.
-
-## Code of Conduct
-
-See [Code of Conduct](CODE-OF-CONDUCT.md).
+Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE-OF-CONDUCT.md) first.
