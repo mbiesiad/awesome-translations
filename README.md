@@ -47,7 +47,7 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
 - [i18n Ally](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
 - [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use Cloud Translation API by Google in Swift.
-- [translate](https://github.com/translate/translate) - Is a set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+- [translate](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 - [Pootle](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
 - [Translator](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft(Bing), Baidu, Alibaba, Tencent, NetEase(Youdao), Sogou, Deepl, etc.
 
