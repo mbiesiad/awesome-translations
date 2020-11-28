@@ -1,75 +1,74 @@
 # Awesome Translations [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Herramientas relacionadas a la localización y traducción (T9n, l10n, g11n, m17n, i18n).
+Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 
-## Contenido
+## Contents
 
-- [Traducciones](#traducciones)
-- [Plataformas increíbles](#plataformas-increíbles)
-- [Aplicaciones](#aplicaciones)
-- [Herramientas](#herramientas)
-- [Artículos](#artículos)
-- [Otros](#otros)
+- [Translations](#translations)
+- [Awesome platforms](#awesome-platforms)
+- [Apps](#apps)
+- [Tools](#tools)
+- [Articles](#articles)
+- [Other](#other)
 
-## Traducciones
+## Translations
 
-- [Inglés](https://github.com/mbiesiad/awesome-translations)
-- [Polaco](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
-- [Español](https://github.com/mbiesiad/awesome-translations/tree/es_ES)
+- [English](https://github.com/mbiesiad/awesome-translations)
+- [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 
-## Plataformas increíbles
+## Awesome platforms
 
 **I18n.**
 
-- [Crowdin](https://crowdin.com/) - Compañía de servicios y tecnología de localización basada en la nube de código cerrado.
-- [GitLocalize](https://gitlocalize.com/) - Poderosa plataforma de localización que sincroniza tu repositorio de GitHub y te permite traducir su contenido continuamente.
-- [LocaleApp](https://www.localeapp.com/) - Aplicación efectiva de localización y traducción.
-- [Transifex](https://www.transifex.com/) - Plataforma basada en web. Sistema de gestión de traducción (GMS por sus siglas en inglés).
-- [Weblate](https://weblate.org/) - Plataforma de una de las comunidades más positivas y motivadoras de software libre.
-- [Zanata](http://zanata.org/) - Plataforma en la web para traductores, creadores de contenido y desarrolladores que desean administrar proyectos de localización.
-- [Traduora](https://github.com/traduora/traduora) - Una plataforma para administrar un área de trabajo de traducción por equipos.
+- [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
+- [GitLocalize](https://gitlocalize.com/) - Powerful localization platform that syncs with your GitHub repository and lets you continuously translate its content.
+- [LocaleApp](https://www.localeapp.com/) - Effective app localization and translation.
+- [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
+- [Weblate](https://weblate.org/) - Platform for one of the most positive and empowering communities of libre software.
+- [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
+- [Traduora](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
 
-## Aplicaciones
+## Apps
 
-- [RTranslator](https://github.com/niedev/RTranslator) - El primer traductor simultáneo para Android basado en la API de Google.
-- [Crow Translate](https://github.com/crow-translate/crow-translate) - Un simple y liviano traductor para Linux y Windows que te permite traducir y reproducir texto mediante voz usando la API de traducción de Google, Yandex y Bing.
-- [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - Una aplicación para Windows, Mac y Linux que, automáticamente, traduce y adapta un texto copiado en el portapapeles.
-- [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - Administrador "I18n" (internacionalización) para Windows.
+- [RTranslator](https://github.com/niedev/RTranslator) - The first simultaneous translator app for Android based on Google's API.
+- [Crow Translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
+- [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
+- [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
 
-## Herramientas
+## Tools
 
-- [deep-translator](https://github.com/nidhaloff/deep-translator) - Librería gratis e ilimitada (dependiendo del traductor utilizado) escrita en Python para traducir diferentes idiomas de una manera fácil usando múltiples traductores. Puede ser utilizada también en la consola.
-- [I18next](https://www.i18next.com/) - Framework de internacionalización escrito en y para JavaScript.
-- [react-i18next](https://react.i18next.com/) - Poderoso framework de internacionalización para React/React Native basado en i18next.
-- [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Funciones para internacionalizar tu extensión de navegador. Puedes usar estas APIs para obtener frases traducidas desde archivos locales empaquetados con tu extensión.
-- [npm i18n](https://www.npmjs.com/package/i18n) - Módulo liviano de traducción con almacenamiento dinámico de json.
-- [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - API de internacionalización Rails (I18n).
-- [Quasar I18n](https://quasar.dev/options/app-internationalization) - Aplicación de internacionalización (I18n) en el framework Quasar.
-- [Vue I18n](https://kazupon.github.io/vue-i18n/) - Plugin de internacionalización para Vue.js.
-- [i18n Ally](https://github.com/antfu/i18n-ally) - Extensión para VScode, todo en uno sobre i18n.
-- [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - Un framework para usar la API de traducción en la nube (Cloud Translation API) por Google en Swift.
-- [translate](https://github.com/translate/translate) - Un conjunto de software y documentación diseñado para ayudar a hacer las vidas de los traductores más productivas y menos frustrantes.
-- [Pootle](https://github.com/translate/pootle) - Herramienta de administración de traducción en línea con un interfaz centrado en la localización de interfaces de usuario gráficas de aplicaciones. Es usada por LibreOffice.
-- [Translator](https://github.com/UlionTse/translators) - Librería de traducción basada en el interfaz de Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
-- [Bergamot](https://github.com/browsermt) - Traducción del lado del cliente en el navegador.
+- [deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
+- [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
+- [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
+- [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
+- [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
+- [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails Internationalization (I18n) API.
+- [Quasar I18n](https://quasar.dev/options/app-internationalization) - App Internationalization (I18n) in Quasar framework.
+- [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
+- [i18n Ally](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
+- [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use Cloud Translation API by Google in Swift.
+- [translate](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
+- [Pootle](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
+- [Translator](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
+- [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
 
-## Artículos
+## Articles
 
-- [Angular and i18n](https://angular.io/guide/i18n) - Guía i18n de Angular.
-- [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Capítulo 8: I18N y L10N.
-- [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internacionalizando tu aplicación.
-- [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - "Globalización de software añadiendo lenguajes en computadoras y dispositivos móviles" por Craig Cummings (diapositivas).
-- [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localización e internacionalización. ¿Cuál es la diferencia?
-- [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - ¿Cuáles son las diferencias entre I18n/L10n/G11n y específicamente qué significa cada una de ellas en el desarrollo?
-- [W3C](https://www.w3.org/International/questions/qa-i18n) - Localización vs. internacionalización.
-- [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internacionalizando aplicaciones Flutter.
+- [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide.
+- [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapter 8: I18N and L10N.
+- [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing Your App.
+- [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - "Software Globalization and Adding Languages on Computers and Mobile Devices" by Craig Cummings (slides).
+- [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
+- [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between I18n/L10n/G11n and specifically what does each mean for development?
+- [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. Internationalization.
+- [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
 
-## Otros
+## Other
 
-- [Google Crowdsource](https://crowdsource.google.com/) - Plataforma de colaboración libre desarrollada por Google con el objetivo de mejorar una serie de servicios de Google mediante la capacitación de usuarios en diferentes algoritmos (con las secciones "Traducción" y "Validación de traducción").
-- [Localizejs](https://localizejs.com/) - Traducciones para sitios web y aplicaciones, incluyendo nuevos lenguajes y un área de trabajo optimizada.
-- [LocalizationLab](https://www.localizationlab.org/) - Comunidad global con más de 7000 contribuidores, los cuales apoyan la traducción y localización de herramientas de internet.
+- [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with Translation and translation validation section).
+- [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
+- [LocalizationLab](https://www.localizationlab.org/) - Global community of 7000+ contributors who support the translation and localization of Internet freedom tools.
 
-## Contribuir
+## Contributing
 
-¡Te damos una cálida bienvenida! Pásate por las [Guías de contribuidor](CONTRIBUTING.md) y el [Código de conducta](CODE-OF-CONDUCT.md) antes que nada.
+Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE-OF-CONDUCT.md) first.
