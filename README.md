@@ -14,7 +14,7 @@ Niesamowite listy materiałów odnośnie internacjonalizacji i lokalizacji. T9n,
 
 * [English](https://github.com/mbiesiad/awesome-translations)
 * [Polski](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
-* [Hiszpański](https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
+* [Español](https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
 
 ## Niesamowite platformy
 
