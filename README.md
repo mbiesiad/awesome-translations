@@ -5,10 +5,10 @@ Herramientas relacionadas a la localización y traducción (T9n, l10n, g11n, m17
 ## Contenido
 
 - [Traducciones](#traducciones)
-- [Plataformas increíbles](#plataformas-increibles)
+- [Plataformas increíbles](#plataformas-increíbles)
 - [Aplicaciones](#aplicaciones)
 - [Herramientas](#herramientas)
-- [Artículos](#articulos)
+- [Artículos](#artículos)
 - [Otros](#otros)
 
 ## Traducciones
