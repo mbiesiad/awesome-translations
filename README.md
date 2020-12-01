@@ -52,6 +52,7 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Pootle](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
 - [Translator](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 - [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
+- [Python](https://pypi.org/project/python-i18n/) - Python Internationalization (I18n) package.
 
 ## Articles
 
