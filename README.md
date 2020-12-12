@@ -70,6 +70,7 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with Translation and translation validation section).
 - [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
 - [LocalizationLab](https://www.localizationlab.org/) - Global community of 7000+ contributors who support the translation and localization of Internet freedom tools.
+- [Pontoon](https://pontoon.mozilla.org/) - Various Mozilla localization projects.
 
 ## Contributing
 
