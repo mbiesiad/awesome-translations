@@ -10,6 +10,7 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Tools](#tools)
 - [Articles](#articles)
 - [Blogs](#blogs)
+- [Online courses](#online-courses)
 - [Other](#other)
 
 ## Translations
@@ -74,6 +75,15 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Speaking of Translation](https://speakingoftranslation.com/) - This blog is run by two outstanding experts in the field of translation and localization. You can listen to audio files covering their tips and opinions on the freelance translator’s work.
 - [Between Translations](http://foxdocs.biz/BetweenTranslations/) - This is a blog run by Jayne Fox, a German into English translator. It talks about continuing professional development (CPD) for translators and the use of technology (especially CAT tools/TEnTs) to support their work.
 - [eMpTy Pages](http://kv-emptypages.blogspot.com/) - This blog present extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry’s biggest players.
+
+## Online Courses
+
+- [UWashingtonX's I18n and l10n](https://www.edx.org/professional-certificate/uwashingtonx-internationalization-and-localization) - A collection of 3 courses of Internationalization and Internationalization for digital products provided by the University of Washington.
+- [Basic English Grammar and punctuation](https://www.coursera.org/learn/grammar-punctuation) - English grammar course for beginners provided by the University of California.
+- [Intermediate English Grammar and punctuation](https://www.coursera.org/specializations/intermediate-grammar) - English grammar course for people with experience provided by the University of California.
+- [Advanced English Grammar and punctuation](https://www.coursera.org/specializations/advanced-grammar-punctuation#courses) - English grammar course for experts provided by the University of California.
+- [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) - Teaches how to use machine learning to understand and manipulate human language. It requires a working knowledge of machine learning, intermediate Python experience including DL frameworks & proficiency in calculus, linear algebra, & statistics.
+- [Machine Translation](https://www.coursera.org/learn/machinetranslation) - This course explain the basic principles of translation algoritms. It is provided by the Karlsruhe Institute of Technology (Germany).
 
 ## Other
 
