@@ -9,6 +9,7 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Apps](#apps)
 - [Tools](#tools)
 - [Articles](#articles)
+- [Blogs](#blogs)
 - [Other](#other)
 
 ## Translations
@@ -64,6 +65,15 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between I18n/L10n/G11n and specifically what does each mean for development?
 - [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. Internationalization.
 - [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
+
+## Blogs
+
+- [Speakt](https://speakt.com/blog/) - Well-rounded resource, offering in-depth information from the best professionals in the industry on everything related to translation.
+- [Lexico](https://www.lexico.com/) - Provides a collection of dictionaries of English and Spanish, and curiosities about many words and languages (in the "Explore" section). It is produced by Oxford University Press.
+- [The Translator's Teacup](https://lingocode.com/translation-blog/) - This blog contains good tips for beginner translators.
+- [Speaking of Translation](https://speakingoftranslation.com/) - This blog is run by two outstanding experts in the field of translation and localization. You can listen to audio files covering their tips and opinions on the freelance translator’s work.
+- [Between Translations](http://foxdocs.biz/BetweenTranslations/) - This is a blog run by Jayne Fox, a German into English translator. It talks about continuing professional development (CPD) for translators and the use of technology (especially CAT tools/TEnTs) to support their work.
+- [eMpTy Pages](http://kv-emptypages.blogspot.com/) - This blog present extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry’s biggest players.
 
 ## Other
 
