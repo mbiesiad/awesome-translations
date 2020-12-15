@@ -66,6 +66,8 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between I18n/L10n/G11n and specifically what does each mean for development?
 - [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. Internationalization.
 - [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
+- [Language vs Dialect](https://speakt.com/what-is-the-difference-between-a-language-and-a-dialect/) - What is the Difference Between a Language and a Dialect?
+- [Translation memory](https://speakt.com/what-is-translation-memory/) - Recently developed technique utilized in present-day translation.
 
 ## Blogs
 
