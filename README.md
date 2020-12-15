@@ -9,6 +9,8 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Apps](#apps)
 - [Tools](#tools)
 - [Articles](#articles)
+- [Blogs](#blogs)
+- [Online courses](#online-courses)
 - [Other](#other)
 
 ## Translations
@@ -64,6 +66,26 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between I18n/L10n/G11n and specifically what does each mean for development?
 - [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. Internationalization.
 - [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
+- [Language vs Dialect](https://speakt.com/what-is-the-difference-between-a-language-and-a-dialect/) - What is the Difference Between a Language and a Dialect?
+- [Translation memory](https://speakt.com/what-is-translation-memory/) - Recently developed technique utilized in present-day translation.
+
+## Blogs
+
+- [Speakt](https://speakt.com/blog/) - Well-rounded resource, offering in-depth information from the best professionals in the industry on everything related to translation.
+- [Lexico](https://www.lexico.com/) - Provides a collection of dictionaries of English and Spanish, and curiosities about many words and languages (in the "Explore" section). It is produced by Oxford University Press.
+- [The Translator's Teacup](https://lingocode.com/translation-blog/) - This blog contains good tips for beginner translators.
+- [Speaking of Translation](https://speakingoftranslation.com/) - This blog is run by two outstanding experts in the field of translation and localization. You can listen to audio files covering their tips and opinions on the freelance translator’s work.
+- [Between Translations](http://foxdocs.biz/BetweenTranslations/) - This is a blog run by Jayne Fox, a German into English translator. It talks about continuing professional development (CPD) for translators and the use of technology (especially CAT tools/TEnTs) to support their work.
+- [eMpTy Pages](http://kv-emptypages.blogspot.com/) - This blog present extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry’s biggest players.
+
+## Online Courses
+
+- [UWashingtonX's I18n and l10n](https://www.edx.org/professional-certificate/uwashingtonx-internationalization-and-localization) - A collection of 3 courses of Internationalization and Internationalization for digital products provided by the University of Washington.
+- [Basic English Grammar and punctuation](https://www.coursera.org/learn/grammar-punctuation) - English grammar course for beginners provided by the University of California.
+- [Intermediate English Grammar and punctuation](https://www.coursera.org/specializations/intermediate-grammar) - English grammar course for people with experience provided by the University of California.
+- [Advanced English Grammar and punctuation](https://www.coursera.org/specializations/advanced-grammar-punctuation#courses) - English grammar course for experts provided by the University of California.
+- [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) - Teaches how to use machine learning to understand and manipulate human language. It requires a working knowledge of machine learning, intermediate Python experience including DL frameworks & proficiency in calculus, linear algebra, & statistics.
+- [Machine Translation](https://www.coursera.org/learn/machinetranslation) - This course explain the basic principles of translation algoritms. It is provided by the Karlsruhe Institute of Technology (Germany).
 
 ## Other
 
