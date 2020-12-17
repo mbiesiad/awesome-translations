@@ -70,7 +70,7 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Language vs Dialect](https://speakt.com/what-is-the-difference-between-a-language-and-a-dialect/) - What is the Difference Between a Language and a Dialect?
 - [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation) - CAT (Computer-aided translation) tools are typically understood to mean programs that specifically facilitate the actual translation process. This article describe: Translation memory software, Language search-engine software, Terminology management software, Alignment software, Interactive machine translation, Augmented translation.
 - [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - A paper-review on different techniques for machine translation.
-- [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - Paper-review that trace back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family. It will conclude with a short survey of more recent trends in the field.
+- [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - A paper-review that trace back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family. It will conclude with a short survey of more recent trends in the field.
 
 ## Blogs
 
