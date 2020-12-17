@@ -37,6 +37,7 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Crow Translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 - [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
+- [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
 
 ## Tools
 
