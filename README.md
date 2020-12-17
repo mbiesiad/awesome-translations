@@ -56,6 +56,7 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Translator](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 - [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
 - [Python-i18n](https://pypi.org/project/python-i18n/) - Python Internationalization (I18n) package.
+- [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - Technology aimed at helping teams effortlessly localize websites.
 
 ## Articles
 
