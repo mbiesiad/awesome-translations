@@ -37,6 +37,7 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Crow Translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 - [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
+- [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
 
 ## Tools
 
@@ -67,7 +68,9 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. Internationalization.
 - [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
 - [Language vs Dialect](https://speakt.com/what-is-the-difference-between-a-language-and-a-dialect/) - What is the Difference Between a Language and a Dialect?
-- [Translation memory](https://speakt.com/what-is-translation-memory/) - Recently developed technique utilized in present-day translation.
+- [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation) - CAT (Computer-aided translation) tools are typically understood to mean programs that specifically facilitate the actual translation process. This article describe: Translation memory software, Language search-engine software, Terminology management software, Alignment software, Interactive machine translation, Augmented translation.
+- [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - A paper-Review on different techniques for machine translation.
+- [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - Paper-review that trace back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family. It will conclude with a short survey of more recent trends in the field.
 
 ## Blogs
 
