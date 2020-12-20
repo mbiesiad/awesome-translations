@@ -10,7 +10,7 @@ Adaptation of a text or a speech from one language to many others. Tools to help
 - [Tools](#tools)
 - [Articles](#articles)
 - [Blogs](#blogs)
-- [Online courses](#online-courses)
+- [Online Courses](#online-courses)
 - [Other](#other)
 
 ## Translations
