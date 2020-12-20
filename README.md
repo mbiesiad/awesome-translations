@@ -1,6 +1,6 @@
 # Awesome Translations [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
+Tools to help with localization & translation (T9n - translation, l10n - localization, g11n - globalization, m17n - multilingualization, i18n - internationalization).
 
 ## Contents
 
