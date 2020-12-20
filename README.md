@@ -5,7 +5,7 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 ## Contents
 
 - [Translations](#translations)
-- [Awesome platforms](#awesome-platforms)
+- [Platforms](#platforms)
 - [Apps](#apps)
 - [Tools](#tools)
 - [Articles](#articles)
@@ -19,7 +19,7 @@ Tools to help with localization & translation (T9n, l10n, g11n, m17n, i18n).
 - [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 - [Spanish](https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
 
-## Awesome platforms
+## Platforms
 
 **I18n.**
 
