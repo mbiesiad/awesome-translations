@@ -50,7 +50,7 @@ Adaptation of a text or a speech from one language to many others. Tools to help
 - [Quasar I18n](https://quasar.dev/options/app-internationalization) - App Internationalization (I18n) in Quasar framework.
 - [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
 - [i18n Ally](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
-- [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use Cloud Translation API by Google in Swift.
+- [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
 - [Translate](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
 - [Pootle](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
 - [Translator](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
@@ -93,7 +93,7 @@ Adaptation of a text or a speech from one language to many others. Tools to help
 
 ## Other
 
-- [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with Translation and translation validation section).
+- [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with translation and translation validation section).
 - [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
 - [LocalizationLab](https://www.localizationlab.org/) - Global community of 7000+ contributors who support the translation and localization of Internet freedom tools.
 - [Pontoon](https://pontoon.mozilla.org/) - Various Mozilla localization projects.
