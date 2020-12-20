@@ -46,8 +46,8 @@ Adaptation of a text or a speech from one language to many others. Tools to help
 - [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
 - [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
 - [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
-- [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails Internationalization (I18n) API.
-- [Quasar I18n](https://quasar.dev/options/app-internationalization) - App Internationalization (I18n) in Quasar framework.
+- [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API.
+- [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
 - [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
 - [i18n Ally](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
 - [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
