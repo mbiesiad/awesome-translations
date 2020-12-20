@@ -2,7 +2,7 @@
 
 > Adaptation of a text or a speech from one language to many others.
 
-This list contains tools to help with localization & translation (T9n - translation, l10n - localization, g11n - globalization, m17n - multilingualization, i18n - internationalization), books, articles, blogs, courses and everything related to translations.
+This list contains tools, books, articles, blogs, courses and everything related to translations (T9n - translation, l10n - localization, g11n - globalization, m17n - multilingualization, i18n - internationalization).
 
 ## Contents
 
