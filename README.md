@@ -55,21 +55,21 @@ Tools to help with localization & translation (T9n - translation, l10n - localiz
 - [Pootle](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
 - [Translator](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 - [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
-- [Python-i18n](https://pypi.org/project/python-i18n/) - Python Internationalization (I18n) package.
+- [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
 - [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - Technology aimed at helping teams effortlessly localize websites.
 
 ## Articles
 
 - [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide.
-- [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapter 8: I18N and L10N.
-- [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing Your App.
-- [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - "Software Globalization and Adding Languages on Computers and Mobile Devices" by Craig Cummings (slides).
+- [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapter 8: i18n and l10n.
+- [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing your app.
+- [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - "Software globalization and adding languages on computers and mobile devices" by Craig Cummings (slides).
 - [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
 - [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between I18n/L10n/G11n and specifically what does each mean for development?
-- [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. Internationalization.
+- [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. internationalization.
 - [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
-- [Language vs Dialect](https://speakt.com/what-is-the-difference-between-a-language-and-a-dialect/) - What is the Difference Between a Language and a Dialect?
-- [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation) - CAT (Computer-aided translation) tools are typically understood to mean programs that specifically facilitate the actual translation process. This article describe: Translation memory software, Language search-engine software, Terminology management software, Alignment software, Interactive machine translation, Augmented translation.
+- [Language vs Dialect](https://speakt.com/what-is-the-difference-between-a-language-and-a-dialect/) - What is the difference between a language and a dialect?
+- [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation) - CAT (computer-aided translation) tools are typically understood to mean programs that specifically facilitate the actual translation process. This article describe: translation memory software, language search-engine software, terminology management software, alignment software, interactive machine translation, augmented translation.
 - [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - A paper-review on different techniques for machine translation.
 - [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - A paper-review that trace back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family. It will conclude with a short survey of more recent trends in the field.
 
@@ -84,7 +84,7 @@ Tools to help with localization & translation (T9n - translation, l10n - localiz
 
 ## Online Courses
 
-- [UWashingtonX's I18n and l10n](https://www.edx.org/professional-certificate/uwashingtonx-internationalization-and-localization) - A collection of 3 courses of Internationalization and Internationalization for digital products provided by the University of Washington.
+- [UWashingtonX's I18n and l10n](https://www.edx.org/professional-certificate/uwashingtonx-internationalization-and-localization) - A collection of 3 courses of internationalization and internationalization for digital products provided by the University of Washington.
 - [Basic English Grammar and punctuation](https://www.coursera.org/learn/grammar-punctuation) - English grammar course for beginners provided by the University of California.
 - [Intermediate English Grammar and punctuation](https://www.coursera.org/specializations/intermediate-grammar) - English grammar course for people with experience provided by the University of California.
 - [Advanced English Grammar and punctuation](https://www.coursera.org/specializations/advanced-grammar-punctuation#courses) - English grammar course for experts provided by the University of California.
