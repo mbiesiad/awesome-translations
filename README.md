@@ -60,6 +60,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
 - [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
 - [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - Technology aimed at helping teams effortlessly localize websites.
+- [attranslate](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 
 ## Articles
 
