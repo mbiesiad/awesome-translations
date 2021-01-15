@@ -21,6 +21,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [English](https://github.com/mbiesiad/awesome-translations)
 - [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 - [Spanish](https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
+- [Italian](https://github.com/niedev/awesome-translations/tree/it_IT)
 
 ## Platforms
 
