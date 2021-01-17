@@ -42,6 +42,8 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 - [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
 - [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
+- [Argos Translate](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+- [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
 
 ## Tools
 
