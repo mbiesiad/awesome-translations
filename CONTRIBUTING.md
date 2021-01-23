@@ -39,7 +39,7 @@ on the different ways you can update your PR so that we can merge it.
 
 :white_check_mark: More awesome resources.
 
-:white_check_mark: Sort alphabetically (ie. Zooniverse' projects)
+:white_check_mark: Sort alphabetically (ie. relevant sources in a specific sections)
 
 ## Translations
 
