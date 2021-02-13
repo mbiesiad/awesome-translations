@@ -34,6 +34,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Weblate](https://weblate.org/) - Platform for one of the most positive and empowering communities of libre software.
 - [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
 - [Traduora](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
+- [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
 
 ## Apps
 
@@ -66,6 +67,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [attranslate](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 - [Polyglot](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 - [Globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
+- [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) A CLI for finding translation keys in project files.
 
 ## Articles
 
@@ -81,6 +83,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation) - CAT (computer-aided translation) tools are typically understood to mean programs that specifically facilitate the actual translation process. This article describe: translation memory software, language search-engine software, terminology management software, alignment software, interactive machine translation, augmented translation.
 - [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - A paper-review on different techniques for machine translation.
 - [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - A paper-review that trace back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family. It will conclude with a short survey of more recent trends in the field.
+- [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) What is `hreflang` attribute and how it can affect your SERP
 
 ## Blogs
 
