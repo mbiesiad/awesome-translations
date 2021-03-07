@@ -2,7 +2,7 @@
 
 > Adaptation of a text or a speech from one language to many others.
 
-This list contains tools, books, articles, blogs, courses and everything related to translations ([translation](https://en.wikipedia.org/wiki/Translation) (t9n), [localization](https://en.wikipedia.org/wiki/Language_localisation) (l10n), [globalization](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) (g11n), [multilingualization](https://www.definify.com/word/multilingualization#:~:text=Noun,into%2C%20or%20for%20multiple%20languages) (m17n), [internationalization](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) (i18n, synonymous with globalization).
+This list contains tools, books, articles, blogs, courses and everything related to translations ([t9n](https://en.wikipedia.org/wiki/Translation) - translation, [l10n](https://en.wikipedia.org/wiki/Language_localisation) - localization, [g11n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - globalization, [m17n](https://www.definify.com/word/multilingualization#:~:text=Noun,into%2C%20or%20for%20multiple%20languages) - multilingualization, [i18n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - internationalization, synonymous with globalization).
 
 ## Contents
 
