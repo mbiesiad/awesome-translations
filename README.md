@@ -67,7 +67,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [attranslate](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 - [Polyglot](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 - [Globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
-- [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) A CLI for finding translation keys in project files.
+- [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 - [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
 
 ## Articles
@@ -80,7 +80,6 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between i18n/l10n/g11n and specifically what does each mean for development?
 - [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. internationalization.
 - [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
-- [Language vs Dialect](https://speakt.com/what-is-the-difference-between-a-language-and-a-dialect/) - What is the difference between a language and a dialect?
 - [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation) - CAT (computer-aided translation) tools are typically understood to mean programs that specifically facilitate the actual translation process. This article describe: translation memory software, language search-engine software, terminology management software, alignment software, interactive machine translation, augmented translation.
 - [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - A paper-review on different techniques for machine translation.
 - [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - A paper-review that trace back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family. It will conclude with a short survey of more recent trends in the field.
