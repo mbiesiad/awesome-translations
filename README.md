@@ -1,6 +1,6 @@
 # Awesome Translations [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> Adaptation of a text or a speech from one language to many others.
+> The transfer of the meaning of a text from one language to another.
 
 This list contains tools, books, articles, blogs, courses and everything related to translations ([t9n](https://en.wikipedia.org/wiki/Translation) - translation, [l10n](https://en.wikipedia.org/wiki/Language_localisation) - localization, [g11n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - globalization, [m17n](https://www.definify.com/word/multilingualization#:~:text=Noun,into%2C%20or%20for%20multiple%20languages) - multilingualization, [i18n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - internationalization, synonymous with globalization).
 
