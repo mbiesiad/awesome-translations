@@ -35,6 +35,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
 - [Traduora](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
 - [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
+- [Respresso](https://respresso.io/) - Let your whole team edit resource files (localizations and translations, images, colors, etc.) with Respresso’s online editor to get them in a platform-specific format, automatically delivered to your source code.
 
 ## Apps
 
