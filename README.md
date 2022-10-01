@@ -74,6 +74,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 - [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
 - [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
+- [FormatJS](https://formatjs.io/) - A modular collection of JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings for displaying to people.
 
 ## Articles
 
