@@ -39,6 +39,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
 - [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
 - [Lokalise](https://lokalise.com/) - Translation platform for developers.
+- [Locize](https://locize.com/) - The continuous localization management platform that powers up your development and translation.
 
 ## Apps
 
