@@ -135,6 +135,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Amazon Translate](https://aws.amazon.com/translate/) - A neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation.
 - [ModernMT](https://www.modernmt.com/) - A self-learning machine translation service that improves from user corrections as user keep using it.
 - [AutoML Translation Documentation](https://cloud.google.com/translate/automl/docs) - A documentation of AutoML Translation from Google.
+- [Microsoft Translator](https://translator.microsoft.com/) - A multilingual machine translation cloud service provided by Microsoft.
 
 ## Contributing
 
