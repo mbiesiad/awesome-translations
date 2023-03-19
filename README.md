@@ -11,6 +11,18 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Spanish](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
 - [Italian](https://github.com/niedev/awesome-translations/tree/it_IT)
 
+## Contents
+
+- [Translations](#translations)
+- [Platforms](#platforms)
+- [Apps](#apps)
+- [Tools](#tools)
+- [Articles](#articles)
+- [Blogs](#blogs)
+- [Online Courses](#online-courses)
+- [Books](#books)
+- [Other](#other)
+
 ## Platforms
 
 ### Localization and translation platforms
