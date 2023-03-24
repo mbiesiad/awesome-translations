@@ -4,13 +4,6 @@
 
 This list contains tools, books, articles, blogs, courses and everything related to translations ([t9n](https://en.wikipedia.org/wiki/Translation) - translation, [l10n](https://en.wikipedia.org/wiki/Language_localisation) - localization, [g11n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - globalization, [m17n](https://www.definify.com/word/multilingualization#:~:text=Noun,into%2C%20or%20for%20multiple%20languages) - multilingualization, [i18n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - internationalization, synonymous with globalization).
 
-## Translations
-
-- [English](https://github.com/mbiesiad/awesome-translations)
-- [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
-- [Spanish](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
-- [Italian](https://github.com/niedev/awesome-translations/tree/it_IT)
-
 ## Contents
 
 - [Translations](#translations)
@@ -22,6 +15,13 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Online Courses](#online-courses)
 - [Books](#books)
 - [Other](#other)
+
+## Translations
+
+- [English](https://github.com/mbiesiad/awesome-translations)
+- [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
+- [Spanish](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
+- [Italian](https://github.com/niedev/awesome-translations/tree/it_IT)
 
 ## Platforms
 
