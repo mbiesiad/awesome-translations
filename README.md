@@ -4,6 +4,13 @@
 
 This list contains tools, books, articles, blogs, courses and everything related to translations ([t9n](https://en.wikipedia.org/wiki/Translation) - translation, [l10n](https://en.wikipedia.org/wiki/Language_localisation) - localization, [g11n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - globalization, [m17n](https://www.definify.com/word/multilingualization#:~:text=Noun,into%2C%20or%20for%20multiple%20languages) - multilingualization, [i18n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - internationalization, synonymous with globalization).
 
+## Translations
+
+- [English](https://github.com/mbiesiad/awesome-translations)
+- [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
+- [Spanish](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
+- [Italian](https://github.com/niedev/awesome-translations/tree/it_IT)
+
 ## Contents
 
 - [Translations](#translations)
@@ -15,13 +22,6 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Online Courses](#online-courses)
 - [Books](#books)
 - [Other](#other)
-
-## Translations
-
-- [English](https://github.com/mbiesiad/awesome-translations)
-- [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
-- [Spanish](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
-- [Italian](https://github.com/niedev/awesome-translations/tree/it_IT)
 
 ## Platforms
 
@@ -55,9 +55,6 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Crow Translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
-
-### i18n manager
-- [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
 
 ### Translation software
 - [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
@@ -131,7 +128,6 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Lexico](https://www.lexico.com/) - Provides a collection of dictionaries of English and Spanish, and curiosities about many words and languages (in the "Explore" section). It is produced by Oxford University Press.
 - [The Translator's Teacup](https://lingocode.com/translation-blog/) - Contains good tips for beginner translators.
 - [Speaking of Translation](https://speakingoftranslation.com/) - Run by two outstanding experts in the field of translation and localization. You can listen to audio files covering their tips and opinions on the freelance translator's work.
-- [Between Translations](http://foxdocs.biz/BetweenTranslations/) - Run by Jayne Fox, a German into English translator. It talks about continuing professional development (CPD) for translators and the use of technology (especially CAT tools/TEnTs) to support their work.
 - [eMpTy Pages](http://kv-emptypages.blogspot.com/) - Presents extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry's biggest players.
 
 ## Online Courses
