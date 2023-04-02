@@ -44,15 +44,24 @@ This list contains tools, books, articles, blogs, courses and everything related
 ## Apps
 
 - [RTranslator](https://github.com/niedev/RTranslator) - The first simultaneous translator app for Android based on Google's API.
+
 - [Crow Translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
+
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
+
 - [Electronjs i18n](https://www.electronjs.org/apps/i18n-manager) - I18n manager for Windows.
+
 - [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
+
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+
+  
 
 ## Tools
 
+- [Apertium](https://github.com/apertium) - an open-source tool that offers a variety of tools for developing and maintaining machine translation systems between different languages.
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
 - [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
 - [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
