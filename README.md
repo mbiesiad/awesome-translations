@@ -1,4 +1,4 @@
-# Awesome Translations [!Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Translations [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 > Restituer le sens d'un texte d'une langue à une autre.
 
