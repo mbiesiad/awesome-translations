@@ -28,7 +28,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Localization and translation platforms
 
 - [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
-- [LocaleApp](https://www.localeapp.com/) - Effective app localization and translation.
+- [LocaleApp](https://www.localeapp.com/) - App localization and translation.
 - [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
 - [Weblate](https://weblate.org/) - Copylefted libre web-based continuous translation platform.
 - [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
