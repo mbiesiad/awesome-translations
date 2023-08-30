@@ -39,7 +39,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 ### Project management
 
 - [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
-- [Traduora](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
+- [Traduora](https://github.com/traduora/traduora) - A platform to manage translation workflow in teams.
 
 ### Platform-specific tools
 
