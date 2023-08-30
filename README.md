@@ -64,7 +64,6 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Automatic translation for end users
 - [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
-- [Crowdin MT](https://store.crowdin.com/crowdin-mt) - A machine learning translator based on translations from Crowdin Global translation memory.
 
 ### Translator libraries for developers
 
