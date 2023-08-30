@@ -1,167 +1,168 @@
-# Awesome Translations [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Translations [!Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> The transfer of the meaning of a text from one language to another.
+> Restituer le sens d'un texte d'une langue à une autre.
 
-This list contains tools, books, articles, blogs, courses and everything related to translations ([t9n](https://en.wikipedia.org/wiki/Translation) - translation, [l10n](https://en.wikipedia.org/wiki/Language_localisation) - localization, [g11n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - globalization, [m17n](https://www.definify.com/word/multilingualization#:~:text=Noun,into%2C%20or%20for%20multiple%20languages) - multilingualization, [i18n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - internationalization, synonymous with globalization).
+Cette liste contient des outils, ouvrages, articles, blogs, cours et autres ressources en rapport avec la traduction ([t9n](https://fr.wikipedia.org/wiki/Traduction) - traduction, [l10n](https://en.wikipedia.org/wiki/Language_localisation) - localisation, [g11n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - globalisation, [m17n](https://www.definify.com/word/multilingualization#:~:text=Noun,into%2C%20or%20for%20multiple%20languages) - multilinguisme, [i18n](https://en.wikipedia.org/wiki/Language_localisation#Globalisation_versus_localisation) - internationalisation, synonyme de globalisation).
 
-## Contents
+## Contenu
 
-- [Translations](#translations)
-- [Platforms](#platforms)
-- [Apps](#apps)
-- [Tools](#tools)
+- [Traductions](#traductions)
+- [Plateformes](#plateformes)
+- [Applications](#applications)
+- [Outils](#outils)
 - [Articles](#articles)
 - [Blogs](#blogs)
-- [Online Courses](#online-courses)
-- [Books](#books)
-- [Other](#other)
+- [Cours en ligne](#cours)
+- [Ouvrages](#ouvrages)
+- [Autres](#autres)
 
-## Translations
+## Traductions
 
-- [English](https://github.com/mbiesiad/awesome-translations)
-- [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
-- [Spanish](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
-- [Italian](https://github.com/niedev/awesome-translations/tree/it_IT)
+- [Anglais](https://github.com/mbiesiad/awesome-translations)
+- [Polonais](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
+- [Espagnol](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
+- [Italien](https://github.com/niedev/awesome-translations/tree/it_IT)
+- [Français](https://github.com/alexture/awesome-translations/tree/fr_FR)
 
-## Platforms
+## Plateformes
 
-### Localization and translation platforms
+### Plateformes de localisation et de traduction
 
-- [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
-- [LocaleApp](https://www.localeapp.com/) - Effective app localization and translation.
-- [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
-- [Weblate](https://weblate.org/) - Copylefted libre web-based continuous translation platform.
-- [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
-- [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
-- [Lokalise](https://lokalise.com/) - Translation platform for developers.
-- [Locize](https://locize.com/) - Proprietary translation platform.
+- [Crowdin](https://crowdin.com) - Entreprise de services et technologies de localisation, propriétaire dans le cloud
+- [LocaleApp](https://www.localeapp.com/) - Localisation et traduction d'applications.
+- [Transifex](https://www.transifex.com/) - Plateforme de traduction propriétaire dans le cloud, système de gestion de la globalisation (GMS)
+- [Weblate](https://weblate.org/) - Plateforme de traduction continue, copyleft dan sle cloud.
+- [SimpleLocalize](https://simplelocalize.io) - Un outil simple de gestion des traductions pour les projets informatiques.
+- [Tolgee](https://tolgee.io) - Plateforme open-source, à l'UI adaptée aux équipes de développement et de traduction, pour que les gens puissent traduire directement dans l'application en cours de conception.
+- [Lokalise](https://lokalise.com/) - Plateforme de traduction pour équipes de développement.
+- [Locize](https://locize.com/) - Plateforme de traduction propriétaire.
 
-### Project management
+### Gestion de projet
 
-- [Zanata](http://zanata.org/) - Web-based translation platform for translators, content creators and developers to manage localisation projects.
-- [Traduora](https://github.com/traduora/traduora) - A platform for manage translation workflow in teams.
+- [Zanata](http://zanata.org/) - Plateforme de traduction pour traducteur·ices, créateur·ices de contenu et devs pour gérer les projets de localisation, dans le cloud.
+- [Traduora](https://github.com/traduora/traduora) - Une plateforme pour gérer les processus de traduction au sein d'une équipe.
 
-### Platform-specific tools
+### Outils spécifiques à une plateforme
 
-- [GitLocalize](https://gitlocalize.com/) - Powerful localization platform that syncs with your GitHub repository and lets you continuously translate its content.
-- [Respresso](https://respresso.io/) - Collaborative online resource manager for localizations, images, colors, etc. that generates platform-specific files and delivers them directly to your source code.
-- [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
+- [GitLocalize](https://gitlocalize.com/) - Plateforme puissante de localisation qui se synchronise avec votre dépôt GitHub et permet de traduire son contenu en continu.
+- [Respresso](https://respresso.io/) - Gestionnaire de ressources collaboratif en ligne pour la localisation, les images, les couleurs, etc. qui génère des fichiers spécifqiues à chaque plateforme et les envoie directement dans votre code source.
+- [PO file editor](https://pofile.net/free-po-editor) - Outil gratuit de traduction de fichiers PO pour une localisation avec Gettext.
 
-## Apps
+## Applications
 
-### Automated translation
+### Traduction automatique
 
-- [RTranslator](https://github.com/niedev/RTranslator) - A simultaneous translator app for Android based on Google's API.
-- [Crow Translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
-- [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
-- [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+- [RTranslator](https://github.com/niedev/RTranslator) - Une application de traduction simultanée pour Android, basée sur l'API Google.
+- [Crow Translate](https://github.com/crow-translate/crow-translate) - Un traducteur simple et léger pour Linux et Windows qui permet de traduire et prononcer du texte en utilisant les API Google, Yandex et Bing translate.
+- [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - Une application pour Windows, Mac et Linux qui traduit et adapte automatiquement un texte copié dans le presse-papiers.
+- [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - Application web 100 % auto-hébergée pour traduire du texte, basée sur Argos Translate.
 
-### Translation software
-- [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
-- [Argos Translate](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
+### Logiciels de traduction (CAT)
+- [OmegaT](https://omegat.org/) - Application de TM gratuite qui fonctionne sur Windows, macOS et Linux.
+- [Argos Translate](https://github.com/argosopentech/argos-translate) - Application de traduction entièrement hors ligne, écrite en Python et basée sur OpenNMT. Elle peut aussi être utilisée comme librairie Python.
 
-## Tools
+## Outils
 
-### Automatic translation for end users
-- [Bergamot](https://github.com/browsermt) - Client-side translation in the browser.
-- [Crowdin MT](https://store.crowdin.com/crowdin-mt) - A machine learning translator based on translations from Crowdin Global translation memory.
+### Traduction automatique pour utilisation classique
+- [Bergamot](https://github.com/browsermt) - Traduction côté client dans le navigateur.
+- [Crowdin MT](https://store.crowdin.com/crowdin-mt) - Outil de traduction basé sur le machine learning et sur les traductions de la mémoire de traduction globale de Crowdin.
 
-### Translator libraries for developers
+### Librairies de traduction pour le développement
 
-- [deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
-- [Translator](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
+- [deep-translator](https://github.com/nidhaloff/deep-translator) - Une librairie Python souple, gratuite et illimitée (en fonction de l'outil utilisé) pour traduire différentes langues facilement en utilisant plusieurs traducteurs automatiques. Elle peut aussi être utilisée directement dans une invite.
+- [Translator](https://github.com/UlionTse/translators) - Une librairie de traduction basée sur l'interface de traduction de Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 
-### i18n frameworks for developers
-- [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
-- [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
-- [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
-- [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - Rails internationalization (i18n) API.
-- [Quasar I18n](https://quasar.dev/options/app-internationalization) - App internationalization (i18n) in Quasar framework.
-- [Vue I18n](https://kazupon.github.io/vue-i18n/) - Internationalization plugin for Vue.js.
-- [i18n Ally](https://github.com/antfu/i18n-ally) - Extension for VSCode, all in one about i18n.
-- [Translate](https://github.com/translate/translate) - A set of software and documentation designed to help make the lives of localizers both more productive and less frustrating.
-- [Python-i18n](https://pypi.org/project/python-i18n/) - Python internationalization (i18n) package.
-- [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - Add-on to Crowdin.
-- [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
-- [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
-- [FormatJS](https://formatjs.io/) - A modular collection of JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings for displaying to people.
-- [Polyglot](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
+### Frameworks i18n pour le développement
+- [I18next](https://www.i18next.com/) - Framework d'internationalisation écrit en et pour le Javascript.
+- [react-i18next](https://react.i18next.com/) - Framework puissant d'internationalisation pour React / React Native, basé sur i18next.
+- [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Fonctions pour internationaliser vos extensions de navigateur Firefox. Vous pouvez aussi utiliser ces API pour accéder à des segments localisés dans les fichiers de locales inclus dans votre extension.
+- [Ruby I18n](https://guides.rubyonrails.org/i18n.html) - API d'internationalisation (i18n) de Ruby.
+- [Quasar I18n](https://quasar.dev/options/app-internationalization) - Internationalisation (i18n) des applications Quasar.
+- [Vue I18n](https://kazupon.github.io/vue-i18n/) - Plugin d'internationalisation pour Vue.js.
+- [i18n Ally](https://github.com/antfu/i18n-ally) - Extension pour VSCode pour l'ensemble des besoins i18n.
+- [Translate](https://github.com/translate/translate) - Ensemble d'outils et de documentation créés pour faciliter la vie des équipes de localisation.
+- [Python-i18n](https://pypi.org/project/python-i18n/) - Paquet d'outils d'internationalisation de Python.
+- [Jsproxy for Crowdin](https://store.crowdin.com/products/crowdin-proxy-translator) - Add-on pour Crowdin.
+- [Moment.js](https://momentjs.com/) - Parcourir, valider, éditer et afficher les dates et heures en JavaScript.
+- [WPML](https://wpml.org/) - Plugin WordPress permettant de faire tourner des sites multilingues avec une seule installation WordPress.
+- [FormatJS](https://formatjs.io/) - Collection modulaire de librairies JavaScript pour l'internationalisation, dont : format des nombres, dates, et segment affichés.
+- [Polyglot](https://github.com/untra/polyglot) - Plugin rapide et open-source d'internationalisation pour les blogs Jekyll.
 
-### Machine translation for developers
-- [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
-- [attranslate](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
+### Traduction automatique pour les équipes de développement
+- [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - Framework pour utilisation l'API de traduction de Google dans Swift.
+- [attranslate](https://github.com/fkirc/attranslate) - Outil de traduction semi-automatique pour les applications ou sites web cross-plateformes.
 
-### Other tools
-- [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
-- [Pootle](https://github.com/translate/pootle) - An online translation management tool with a translation interface focused on localization of applications' graphical user interfaces. It is used by LibreOffice.
-- [Globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
-- [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
+### Autres outils
+- [npm i18n](https://www.npmjs.com/package/i18n) - Module de traduction léger avec stockage json dynamique.
+- [Pootle](https://github.com/translate/pootle) - Outil en ligne de gestion de la traduction avec une interface spécialisée dans la localisation des UI graphiques d'applications. Il est utilisé notamment par LibreOffice.
+- [Globalize](https://github.com/globalizejs/globalize) - Librairie JavaScript pour l'internationalisation et la localisation qui s'appuie sur les données JSON officielles du CLDR Unicode.
+- [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - Un CLI pour trouver les clés de traduction dans des fichiers de travail.
 
-## Articles
+## Articles en anglais
 
-### Introductions to internationalization
-- [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) - Localization and internationalization, what's the difference?
-- [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - What is the actual differences between i18n/l10n/g11n and specifically what does each mean for development?
-- [W3C](https://www.w3.org/International/questions/qa-i18n) - Localization vs. internationalization.
-- [Internationalization vs. Localization: The Difference Between l10n and I18n](https://blog.crowdin.com/2022/07/14/internationalization-vs-localization) - Blog post about the difference between l10n and I18n from Crowdin.
+### Introductions à l'internationalisation
+- [Stack Overflow Q&A-1](https://stackoverflow.com/questions/506743/localization-and-internationalization-whats-the-difference) -Localisation et internationalisation, quelle est la différence ?
+- [Stack Overflow Q&A-2](https://stackoverflow.com/questions/754520/what-is-the-actual-differences-between-i18n-l10n-g11n-and-specifically-what-does) - Quelles sont les vraies différences entre l'i18n, la l10n, la g11n, et qu'est-ce que chacune veut dire pour le développement ?
+- [W3C](https://www.w3.org/International/questions/qa-i18n) - Localisation vs. internationalisation.
+- [Internationalization vs. Localization: The Difference Between l10n and I18n](https://blog.crowdin.com/2022/07/14/internationalization-vs-localization) - Localization vs. internationatlisation.
 
-### For developers
+### Pour le développement
 
-- [Angular and i18n](https://angular.io/guide/i18n) - Angular i18n guide.
-- [Debian manuals](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapter 8: i18n and l10n.
-- [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationalizing your app.
-- [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - "Software globalization and adding languages on computers and mobile devices" by Craig Cummings (slides).
-- [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationalizing Flutter apps.
-- [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - What is `hreflang` attribute and how it can affect your SERP.
-- [Globalization and localization in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) - Article about Globalization and localization in ASP.NET Core.
+- [Angular and i18n](https://angular.io/guide/i18n) - Guide i18n d'Angular.
+- [Manuel Debian](https://www.debian.org/doc/manuals/debian-reference/ch08.en.html) - Chapitre 8 : i18n et l10n.
+- [Developer Chrome i18n](https://developer.chrome.com/webstore/i18n) - Internationaliser votre application.
+- [Software Globalization, Berkeley.edu - slides](https://lx.berkeley.edu/sites/default/files/berkeleylinguisticsdeptg11ncldr.pdf) - "Globalisation des logiciels et ajout de langues à des ordinateurs et appareils mobiles", présentation par Craig Cummings.
+- [Flutter i18n](https://flutter.dev/docs/development/accessibility-and-localization/internationalization) - Internationaliser des applications Flutter.
+- [What is 'hreflang'?](https://simplelocalize.io/blog/posts/what-is-hreflang/) - Ce qu'est l'attribut hreflang et comment il peut affecter votre SEO.
+- [Globalization and localization in ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/localization?view=aspnetcore-6.0) - Article sur la globalisation et la localisation dans ASP.NET Core.
 
-### Understanding computer-assisted translation
-- [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation) - CAT (computer-aided translation) tools are typically understood to mean programs that specifically facilitate the actual translation process. This article describe: translation memory software, language search-engine software, terminology management software, alignment software, interactive machine translation, augmented translation.
+### Comprendre la traduction assistée par ordinateur (CAT)
+- [Computer-assisted translation](https://en.wikipedia.org/wiki/Computer-assisted_translation) - Les outils de CAT (computer-assisted translation) sont l'ensemble des logiciels qui facilitent le processus de traduction. On y retrouve les logiciels de mémoire de traduction, les moteurs de recherche de langage, la gestion de terminologie, les logiciels d'alignement, la traduction automatique interactive et la traduction augmentée.
 
-### Machine translation
-- [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - A paper-review on different techniques for machine translation.
-- [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - A paper-review that trace back the origins of modern NMT architectures to word and sentence embeddings and earlier examples of the encoder-decoder network family. It will conclude with a short survey of more recent trends in the field.
+### Traduction automatique
+- [Approaches to Machine Translation](http://engineering.fuoye.edu.ng/journal/index.php/engineer/article/view/26/pdf) - Une revue scientifique de différentes techniques de traduction automatique.
+- [Neural Machine Translation](https://jair.org/index.php/jair/article/view/12007/26611) - Un article scientifique qui retrace les origines de l'architecture NMR (traduction automatique neurale) moderne, les inclusions de phrases, et des exemples anciens de la famille du réseau encodage-décodage. Il se termine par une revue rapide des tendances récentes du secteur.
 
-## Blogs
+## Blogs 
 
-- [Speakt](https://speakt.com/blog/) - Well-rounded resource, offering in-depth information from the best professionals in the industry on everything related to translation.
-- [Lexico](https://www.lexico.com/) - Provides a collection of dictionaries of English and Spanish, and curiosities about many words and languages (in the "Explore" section). It is produced by Oxford University Press.
-- [The Translator's Teacup](https://lingocode.com/translation-blog/) - Contains good tips for beginner translators.
-- [Speaking of Translation](https://speakingoftranslation.com/) - Run by two outstanding experts in the field of translation and localization. You can listen to audio files covering their tips and opinions on the freelance translator's work.
-- [eMpTy Pages](http://kv-emptypages.blogspot.com/) - Presents extremely detailed descriptions and opinions about localization management, collaborative translation platforms, translation management systems, machine translation, as well as the localization industry's biggest players.
+- [Speakt](https://speakt.com/blog/) - Une ressource complète qui fournit des informations détaillées de la part de pros du secteur sur tout ce qui est en rapport avec la traduction.
+- [Lexico](https://www.lexico.com/) - Toute une collection de dictionnaires en anglais et espagnol, et des anecdotes sur beaucoup de mots et de langues dans la section Explore. Le site est édité par Oxford University Press.
+- [The Translator's Teacup](https://lingocode.com/translation-blog/) - Des bons conseils pour les traducteur·ices qui débutent.
+- [Speaking of Translation](https://speakingoftranslation.com/) - Un blog tenu par deux experts de la traduction et localisation. Ils partagent des conseils et leurs opinions sur le travail de traduction freelance.
+- [eMpTy Pages](http://kv-emptypages.blogspot.com/) - Des descriptions et opinions très détaillées sur la gestion de la localisation, les plateformes de traduction collaborative, les systèmes de gestion de traduction, la traduction automatique et les leaders du secteur de la localisation.
 
-## Online Courses
+## Cours en ligne
 
-- [UWashingtonX's I18n and l10n](https://www.edx.org/professional-certificate/uwashingtonx-internationalization-and-localization) - A collection of 3 courses of internationalization and internationalization for digital products provided by the University of Washington.
-- [Basic English Grammar and punctuation](https://www.coursera.org/learn/grammar-punctuation) - English grammar course for beginners provided by the University of California.
-- [Intermediate English Grammar and punctuation](https://www.coursera.org/specializations/intermediate-grammar) - English grammar course for people with experience provided by the University of California.
-- [Advanced English Grammar and punctuation](https://www.coursera.org/specializations/advanced-grammar-punctuation#courses) - English grammar course for experts provided by the University of California.
-- [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) - Teaches how to use machine learning to understand and manipulate human language. It requires a working knowledge of machine learning, intermediate Python experience including DL frameworks & proficiency in calculus, linear algebra, & statistics.
-- [Machine Translation](https://www.coursera.org/learn/machinetranslation) - Explains the basic principles of translation algoritms. It is provided by the Karlsruhe Institute of Technology (Germany).
+- [UWashingtonX's I18n and l10n](https://www.edx.org/professional-certificate/uwashingtonx-internationalization-and-localization) - 3 cours complets d'internationalisation et d'internationalisation pour les produits numériques, par l'université de Washington.
+- [Basic English Grammar and punctuation](https://www.coursera.org/learn/grammar-punctuation) - Introduction à la grammaire anglophone, par l'université de Californie.
+- [Intermediate English Grammar and punctuation](https://www.coursera.org/specializations/intermediate-grammar) - Grammaire anglophone niveau avancé, par l'université de Californie.
+- [Advanced English Grammar and punctuation](https://www.coursera.org/specializations/advanced-grammar-punctuation#courses) - Grammaire anglophone niveau expert, par l'université de Californie.
+- [Natural Language Processing](https://www.coursera.org/specializations/natural-language-processing) - Explique l'utilisation du machine learning pour comprendre et manipuler le langage humain. Il faut comprendre le machine learning, avoir une bonne compréhension de Python (incluant frameworks DL) et s'en sortir en mathématiques, algèbre linéaire et statistiques.
+- [Machine Translation](https://www.coursera.org/learn/machinetranslation) - Explique les bases des algorithmes de traduction. Par le Karlsruhe Institute of Technology (Allemagne).
 
-## Books
+## Ouvrages en anglais
 
-- [Statistical Machine Translation](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5#fndtn-information) - Establishes background in NLP and statistics, then develops the basics through to current research. By the end readers can build their own translation systems. The author is [Philipp Koehn](https://en.wikipedia.org/wiki/Philipp_Koehn).
-- [Neural Machine Translation](https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197#fndtn-information) - This introduction to machine translation starts from the basics of neural network methods and reaches the state of the art, while giving historical, linguistic, and applied context. Code examples in Python give a hands-on blueprint for implementation. The author is still Philipp Koehn.
-- [Translation: An advanced resource book for students](https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8) - Introduces the theory and practice of translation from a variety of linguistic and cultural angles. The authors are [Basil Hatim](https://scholar.google.com/citations?user=IVydQ-4AAAAJ&hl=en) and [Jeremy Munday](https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday).
+- [Statistical Machine Translation](https://www.cambridge.org/core/books/statistical-machine-translation/94EADF9F680558E13BE759997553CDE5#fndtn-information) - Donne du contexte sur le NLP et les statistiques, puis développe les fondamentaux jusqu'aux informations les plus récentes. À la fin du livre, le lectorat peut construire son propre système de traduction. Écrit par [Philipp Koehn](https://en.wikipedia.org/wiki/Philipp_Koehn).
+- [Neural Machine Translation](https://www.cambridge.org/core/books/neural-machine-translation/7AAA628F88ADD64124EA008C425C0197#fndtn-information) - Introduction à la traduction automatique qui commence par les bases des réseaux neuraux et avance jusqu'aux découvertes récentes, tout en fournissant un contexte historique, linguistique et appliqué. Des exemples de code en Python permettent de se lancer soi-même. Également par Philipp Koehn.
+- [Translation: An advanced resource book for students](https://www.amazon.com/Translation-advanced-resource-Routledge-Linguistics-ebook/dp/B07NPV8DSC/ref=cm_cr_arp_d_product_top?ie=UTF8) - Introduction à la traduction, en théorie et en pratique, depuis plusieurs angles linguistiques et culturels. Écrit par [Basil Hatim](https://scholar.google.com/citations?user=IVydQ-4AAAAJ&hl=en) et [Jeremy Munday](https://ahc.leeds.ac.uk/languages/staff/1006/professor-jeremy-munday).
 
-## Other
+## Autres
 
-- [Google Crowdsource](https://crowdsource.google.com/) - Crowdsourcing platform developed by Google intended to improve a host of Google services through the user-facing training of different algorithms (with translation and translation validation section).
-- [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
-- [LocalizationLab](https://www.localizationlab.org/) - Global community of 7000+ contributors who support the translation and localization of Internet freedom tools.
-- [Pontoon](https://pontoon.mozilla.org/) - Various Mozilla localization projects.
-- [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - A service on the IBM Cloud that enables dynamically translation news, patents, or conversational documents.
-- [Project Fluent](https://projectfluent.org) - A localization paradigm designed to unleash the entire expressive power of natural language translations.
-- [ICU - International Components for Unicode](https://icu.unicode.org/) - A mature, widely used set of C/C++ and Java libraries providing Unicode and Globalization support for software applications.
-- [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Part of the Django docs, focused on internationalization and localization.
-- [Glocalization Strategy Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) - A Guide for Localization and Globalization Professionals by the GILT forum.
-- [DeepL Translator](https://www.deepl.com/) - A neural machine translation service launched in August 2017 and owned by Cologne based DeepL SE.
-- [Amazon Translate](https://aws.amazon.com/translate/) - A neural machine translation service that delivers fast, high-quality, affordable, and customizable language translation.
-- [ModernMT](https://www.modernmt.com/) - A self-learning machine translation service that improves from user corrections as user keep using it.
-- [AutoML Translation Documentation](https://cloud.google.com/translate/automl/docs) - A documentation of AutoML Translation from Google.
-- [Microsoft Translator](https://translator.microsoft.com/) - A multilingual machine translation cloud service provided by Microsoft.
+- [Google Crowdsource](https://crowdsource.google.com/) - Plateforme de crowdsourcing développée par Google pour améliorer les services Google en entraînant différents algorithmes (dont une section traduction et validation de traduction) de façon ouverte au public.
+- [Localizejs](https://localizejs.com/) - Traductions pour des sites et applications en de nouvelles langues, et streamlining du processus de traduction.
+- [LocalizationLab](https://www.localizationlab.org/) - Communauté mondiale de plus de 7000 membres qui travaillent à la traduction et la localisation d'outils pour la liberté d'utilisation d'Internet.
+- [Pontoon](https://pontoon.mozilla.org/) - Projets divers de localisation de Mozilla.
+- [Watson Language Translator](https://www.ibm.com/cloud/watson-language-translator) - Traduction dynamique d'actualités, de brevets et de documents conversationnels, sur le cloud IBM.
+- [Project Fluent](https://projectfluent.org) - Paradigme de localisation conçu pour mettre à profit les traductions en langage naturel.
+- [ICU - International Components for Unicode](https://icu.unicode.org/) - Un ensemble de librairies C/C++ et Java avec une compatibilité Unicode et Globalisation pour des applications logicielles.
+- [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Section de la documentation Django sur l'internationalisation et la localisation.
+- [Glocalization Strategy Playbook](https://github.com/GILT-Forum/Globalization-Strategy-Playbook) - Un guide complet pour une stratégie commerciale de localisation et de globalisation, par le forum GILT.
+- [DeepL Translator](https://www.deepl.com/) - Un outil de traduction automatique lancé en août 2017 et appartenant à l'entreprise allemande DeepL SE.
+- [Amazon Translate](https://aws.amazon.com/translate/) - Un outil de traduction automatique neurale.
+- [ModernMT](https://www.modernmt.com/) - Un système de traduction automatique qui apprend au fur et à mesure qu'on l'utilise.
+- [AutoML Translation Documentation](https://cloud.google.com/translate/automl/docs) - AutoML Translation, un outil de Google.
+- [Microsoft Translator](https://translator.microsoft.com/) - Un outil multilingue de traduction automatique dans le cloud, par Microsoft.
 
-## Contributing
+## Contribuer
 
-Warmly welcome! Kindly go through [Contribution Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE-OF-CONDUCT.md) first.
+N'hésitez pas à contribuer à ce document ! Vous pouvez ajouter du contenu en anglais sur la branche principale du projet, ou en français ici.
