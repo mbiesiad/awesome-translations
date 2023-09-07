@@ -22,14 +22,13 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Polish](https://github.com/mbiesiad/awesome-translations/tree/pl_PL)
 - [Spanish](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
 - [Italian](https://github.com/niedev/awesome-translations/tree/it_IT)
-- [French](https://github.com/alexture/awesome-translations/blob/fr_FR/README.md)
-
+- [French](https://github.com/alexture/awesome-translations/tree/fr_FR)
 ## Platforms
 
 ### Localization and translation platforms
 
 - [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
-- [LocaleApp](https://www.localeapp.com/) - App localization and translation.
+- [LocaleApp](https://www.localeapp.com/) - App for localization and translation.
 - [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
 - [Weblate](https://weblate.org/) - Copylefted libre web-based continuous translation platform.
 - [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
