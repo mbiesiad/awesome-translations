@@ -23,6 +23,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Spanish](https://web.archive.org/web/20220511155347/https://github.com/JoseDeFreitas/awesome-translations/tree/es_ES)
 - [Italian](https://github.com/niedev/awesome-translations/tree/it_IT)
 - [French](https://github.com/alexture/awesome-translations/tree/fr_FR)
+
 ## Platforms
 
 ### Localization and translation platforms
