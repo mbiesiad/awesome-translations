@@ -30,7 +30,6 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 - [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
 - [Inlang](https://inlang.com/) - The globalization ecosystem for software companies.
-- [LocaleApp](https://www.localeapp.com/) - App for localization and translation.
 - [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
 - [Weblate](https://weblate.org/) - Copylefted libre web-based continuous translation platform.
 - [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
