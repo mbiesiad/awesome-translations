@@ -77,6 +77,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Libraries and tools for developers
 
+- [Vedika](https://vedika.io) - AI-powered Vedic astrology API supporting 22 languages (English, Hindi, Tamil, Telugu, Bengali, Gujarati, Kannada, Malayalam, Marathi, Punjabi, Odia, Assamese, Spanish, French, German, Portuguese, Russian, Japanese, Korean, Chinese, Arabic, Indonesian). OpenAPI 3.0 spec and GraphQL endpoint.
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Python to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
 - [Translator](https://github.com/UlionTse/translators) - A translator library based on the translation interface of Google, Yandex, Microsoft (Bing), Baidu, Alibaba, Tencent, NetEase (Youdao), Sogou, Deepl, etc.
 - [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
