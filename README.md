@@ -98,6 +98,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Django docs - i18n](https://docs.djangoproject.com/en/4.1/topics/i18n/) - Part of the Django docs, focused on internationalization and localization.
 - [Localizejs](https://localizejs.com/) - Translations for websites and applications to new languages and streamline translation workflow.
 - [ParaglideJS](https://inlang.com/m/gerre34r) - Synchronous, typesafe and lightweight i18n library.
+- [ai-i18n](https://github.com/i18n-actions/ai-i18n) - A GitHub Action that automatically translates i18n files (XLIFF, JSON) using LLM providers (Anthropic, OpenAI, Ollama) with glossary support, change detection, ICU message handling, and reviewed translation preservation.
 - [sphinx-intl](https://github.com/sphinx-doc/sphinx-intl) - A Sphinx utility that make it easy to translate and to apply translations.
 
 ### Machine translation for developers
