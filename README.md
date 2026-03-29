@@ -35,6 +35,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [SimpleLocalize](https://simplelocalize.io) - A simple translation management for software projects.
 - [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
 - [Localit](https://localit.io/) - A fast and intuitive localization platform with seamless GitHub/GitLab integration, AI-powered and human translation support, and a generous free plan.
+- [Localhero.ai](https://localhero.ai) - Automatic on-brand translations for product teams. Integrates with GitHub, every PR gets translated, with glossary enforcement and translation memory.
 - [Lokalise](https://lokalise.com/) - Translation platform for developers.
 - [Locize](https://locize.com/) - Proprietary translation platform.
 - [Shipi18n](https://shipi18n.com/) - Translation API for developers with i18next support, placeholder preservation, and translation memory.
