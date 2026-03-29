@@ -104,6 +104,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [SwiftGoogleTranslate](https://github.com/maximbilan/SwiftGoogleTranslate) - A framework to use cloud translation API by Google in Swift.
 - [attranslate](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 - [AutoML Translation Documentation](https://cloud.google.com/translate/automl/docs) - AutoML Translation by Google.
+- [SocketsIO](https://socketsio.com) - Translation API supporting 195 languages with Google Translate v2 compatible interface. Free tier available.
 
 ### Other tools
 - [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
