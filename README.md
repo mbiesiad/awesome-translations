@@ -59,6 +59,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Crow Translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator for Linux and Windows that allows to translate and speak text using Google, Yandex and Bing translate API.
 - [Copy Translator](https://github.com/CopyTranslator/CopyTranslator) - An app for Windows, Mac and Linux that automatically translate and adapt a text when copied in the clipboard.
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+- [PPTranslate](https://github.com/cloudyview/ppt-translator) - Open-source PowerPoint (.pptx) translator powered by Claude AI that preserves all formatting, fonts, and layouts. Self-hostable, also available at [pptranslate.com](https://pptranslate.com).
 
 ### Translation software
 - [OmegaT](https://omegat.org/) - Free translation memory / CAT software that works on Windows, macOS and Linux.
