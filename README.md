@@ -78,6 +78,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
 - [FormatJS](https://formatjs.io/) - A modular collection of JavaScript libraries for internationalization that are focused on formatting numbers, dates, and strings for displaying to people.
 - [Crowdin MT](https://store.crowdin.com/crowdin-mt) - A machine learning translator based on translations from Crowdin Global translation memory.
+- [NRG](https://github.com/nanolaba/readme-generator) - Multi-language README generator that builds localized README files from a single .src.md template (CLI, Maven plugin, GitHub Action, Java library).
 
 ## Articles
 
