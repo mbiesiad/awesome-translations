@@ -40,6 +40,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
 - [Lokalise](https://lokalise.com/) - Translation platform for developers.
 - [Locize](https://locize.com/) - The continuous localization management platform that powers up your development and translation.
+- [Localingos](https://www.localingos.com/) - AI-automated translation pipeline for developers. Push English source, get 56 locales back with placeholder validation, CLDR-correct plural forms, and CI/CD integration.
 
 ## Apps
 
