@@ -52,6 +52,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [PO file editor](https://pofile.net/free-po-editor) - A free tool for translating PO files for localization with Gettext.
 
 ## Apps
+- [World-Meeting](https://world-meeting.app/ai-meeting-translator) - Browser-based live meeting translation with translated voice and subtitles for video calls.
 
 ### Automated translation
 
