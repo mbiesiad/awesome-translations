@@ -64,6 +64,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [OmegaT](https://omegat.org/) - Free translation memory / CAT software that works on Windows, macOS and Linux.
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 - [Fink](https://inlang.com/m/tdozzpar) - Translation editor / CAT software with no-code setup and repository-based operation.
+- [Localization Workflow Studio](https://github.com/zhangzeyu99-web/localization-workflow-studio) - Local-first workbench for game localization, Excel language tables, glossary QA, and delivery gates.
 - [Project Fluent](https://projectfluent.org) - Asymetric translations (eg. gender variations) for localization.
 
 ## Tools
