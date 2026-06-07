@@ -50,6 +50,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+- [Transl8ly](https://transl8ly.com/) - Browser-based tool for translating Adobe InDesign IDML and Microsoft Word DOCX files while preserving document structure and layout.
 
 ## Tools
 
