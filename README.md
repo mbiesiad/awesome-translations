@@ -50,6 +50,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [OmegaT](https://omegat.org/) - Free translation memory application that works on Windows, macOS and Linux.
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
+- [Picute Subtitle Translator](https://picute.net/en/tools/subtitle-translator) - Free in-browser web app to translate subtitle files (SRT, VTT, ASS) across many languages, no signup. Part of an AI subtitle tool.
 
 ## Tools
 
