@@ -39,6 +39,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Locize](https://locize.com/) - Proprietary translation platform.
 - [Shipi18n](https://shipi18n.com/) - Translation API for developers with i18next support, placeholder preservation, and translation memory.
 - [LRM](https://github.com/nickprotop/LocalizationManager) - Self-hosted CLI/TUI localization manager supporting .resx and JSON (i18next) with multiple translation providers including free options.
+- [NitroTranslate](https://nitrotranslate.com) - Human translation service accepting autonomous payments from AI agents via the Machine Payments Protocol (MPP).
 
 ### Project management
 
