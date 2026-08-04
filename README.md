@@ -39,6 +39,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Locize](https://locize.com/) - Proprietary translation platform.
 - [Shipi18n](https://shipi18n.com/) - Translation API for developers with i18next support, placeholder preservation, and translation memory.
 - [LRM](https://github.com/nickprotop/LocalizationManager) - Self-hosted CLI/TUI localization manager supporting .resx and JSON (i18next) with multiple translation providers including free options.
+- [LionRapid](https://www.lionrapid.com/) - European localization platform with a CAT editor, translation memory, terminology, and machine translation running on self-operated models.
 
 ### Project management
 
