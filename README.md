@@ -40,6 +40,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
 - [Lokalise](https://lokalise.com/) - Translation platform for developers.
 - [Locize](https://locize.com/) - The continuous localization management platform that powers up your development and translation.
+- [BeMyWords](https://www.bemywords.org/) - Translation management system that keeps whole websites translated with AI under per-project rules (glossary, do-not-translate, substitutions) and human review; connects via a script tag, build-time files, REST API or MCP.
 
 ## Apps
 
