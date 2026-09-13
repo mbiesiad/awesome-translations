@@ -37,7 +37,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Localit](https://localit.io/) - A fast and intuitive localization platform with seamless GitHub/GitLab integration, AI-powered and human translation support, and a generous free plan.
 - [Lokalise](https://lokalise.com/) - Translation platform for developers.
 - [Locize](https://locize.com/) - Proprietary translation platform.
-- [Shipi18n](https://shipi18n.com/) - Translation API for developers with i18next support, placeholder preservation, and translation memory.
+- [Shipi18n](https://shipi18n.com/) - Open-source i18n QA linter for CI: catches missing keys, dropped placeholders, collapsed plurals and mistranslations (bring-your-own-LLM). JSON, PO, XLIFF, .arb, .xcstrings. Apache-2.0, no account.
 - [LRM](https://github.com/nickprotop/LocalizationManager) - Self-hosted CLI/TUI localization manager supporting .resx and JSON (i18next) with multiple translation providers including free options.
 
 ### Project management
