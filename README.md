@@ -76,6 +76,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Amazon Translate](https://aws.amazon.com/translate/) - A neural machine translation service.
 - [ModernMT](https://www.modernmt.com/) - A self-learning machine translation service that improves from user corrections as user keep using it.
 - [Microsoft Translator](https://translator.microsoft.com/) - A multilingual machine translation cloud service provided by Microsoft.
+- [ForgeFile](https://forgefile.com/) - Online AI translation of documents and localization files (XLIFF, PO, RESX, JSON, YAML) into 100+ languages with formatting and structure preserved; free plan available.
 
 ### Libraries and tools for developers
 
