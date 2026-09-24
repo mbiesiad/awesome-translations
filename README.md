@@ -56,6 +56,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Apertium](https://github.com/apertium) - an open-source tool that offers a variety of tools for developing and maintaining machine translation systems between different languages.
 - [deep-translator](https://github.com/nidhaloff/deep-translator) - A flexible free and unlimited (depending on the translator used) library written in Phyton to translate between different languages in a simple way using multiple translators, it can also be used directly in the prompt.
 - [I18next](https://www.i18next.com/) - Internationalization-framework written in and for JavaScript.
+- [@i18n-micro/runtime](https://www.npmjs.com/package/@i18n-micro/runtime) - Framework-agnostic createI18n for vanilla JS/TS (browser, workers; no filesystem).
 - [react-i18next](https://react.i18next.com/) - Powerful internationalization framework for React / React Native which is based on i18next.
 - [MDN i18n](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/i18n) - Functions to internationalize your browser extension. You can use these APIs to get localized strings from locale files packaged with your extension.
 - [npm i18n](https://www.npmjs.com/package/i18n) - Lightweight simple translation module with dynamic json storage.
