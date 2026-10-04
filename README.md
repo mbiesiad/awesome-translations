@@ -28,6 +28,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 ### Localization and translation platforms
 
+- [AirStrings](https://airstrings.com/) - Over-the-air string updates for iOS, Android, web and React Native apps, delivered as Ed25519-signed bundles that the SDKs verify before use.
 - [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
 - [Inlang](https://inlang.com/) - The globalization ecosystem for software companies.
 - [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
