@@ -76,6 +76,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Amazon Translate](https://aws.amazon.com/translate/) - A neural machine translation service.
 - [ModernMT](https://www.modernmt.com/) - A self-learning machine translation service that improves from user corrections as user keep using it.
 - [Microsoft Translator](https://translator.microsoft.com/) - A multilingual machine translation cloud service provided by Microsoft.
+- [TranslateMyImage](https://translatemyimage.com) - Translates the text inside images (product photos, ads, screenshots, comics) into 45 languages and returns the image with the original layout kept.
 
 ### Libraries and tools for developers
 
