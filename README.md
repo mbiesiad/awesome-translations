@@ -29,6 +29,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 
 - [Crowdin](https://crowdin.com/) - Closed source cloud-based localization technology and services company.
 - [GitLocalize](https://gitlocalize.com/) - Powerful localization platform that syncs with your GitHub repository and lets you continuously translate its content.
+- [IntlPull](https://intlpull.com/) - Translation management platform for software teams with AI-assisted translation, GitHub/GitLab sync, and a CLI.
 - [LocaleApp](https://www.localeapp.com/) - Effective app localization and translation.
 - [Transifex](https://www.transifex.com/) - Proprietary, web-based translation platform, globalization management system (GMS).
 - [Weblate](https://weblate.org/) - Platform for one of the most positive and empowering communities of libre software.
