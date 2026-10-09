@@ -73,6 +73,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [attranslate](https://github.com/fkirc/attranslate) - A tool for semi-automated translations of cross-platform apps or websites.
 - [Polyglot](https://github.com/untra/polyglot) - A fast, painless, open-source internationalization plugin for Jekyll blogs.
 - [Globalize](https://github.com/globalizejs/globalize) - A JavaScript library for internationalization and localization that leverage the official Unicode CLDR JSON data.
+- [go-propisyu](https://github.com/rekurt/go-propisyu) - Go library for spelling integers, decimals, monetary amounts and ordinal numbers in Russian.
 - [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - A CLI for finding translation keys in project files.
 - [Moment.js](https://momentjs.com/) - Parse, validate, manipulate and display dates and times in JavaScript.
 - [WPML](https://wpml.org/) - A WordPress plugin that allows running multilingual websites with a single WordPress install.
