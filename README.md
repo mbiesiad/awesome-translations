@@ -76,6 +76,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Amazon Translate](https://aws.amazon.com/translate/) - A neural machine translation service.
 - [ModernMT](https://www.modernmt.com/) - A self-learning machine translation service that improves from user corrections as user keep using it.
 - [Microsoft Translator](https://translator.microsoft.com/) - A multilingual machine translation cloud service provided by Microsoft.
+- [WatchTranslate](https://watchtranslate.com/) - Bilingual subtitles for online and local videos; translates existing captions or generates subtitles from speech (Chrome extension + web player).
 
 ### Libraries and tools for developers
 
