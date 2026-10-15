@@ -39,6 +39,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Locize](https://locize.com/) - Proprietary translation platform.
 - [Shipi18n](https://shipi18n.com/) - Translation API for developers with i18next support, placeholder preservation, and translation memory.
 - [LRM](https://github.com/nickprotop/LocalizationManager) - Self-hosted CLI/TUI localization manager supporting .resx and JSON (i18next) with multiple translation providers including free options.
+- [LocalizeMe](https://localizeme.app/) - Proprietary localization platform for app teams, with no string or language limits, OTA SDKs for iOS and Android, a CLI and an MCP server.
 
 ### Project management
 
