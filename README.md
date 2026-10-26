@@ -76,6 +76,8 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Amazon Translate](https://aws.amazon.com/translate/) - A neural machine translation service.
 - [ModernMT](https://www.modernmt.com/) - A self-learning machine translation service that improves from user corrections as user keep using it.
 - [Microsoft Translator](https://translator.microsoft.com/) - A multilingual machine translation cloud service provided by Microsoft.
+- [DualTran](https://github.com/seigwen/DualTran-extension) - Browser extension for bilingual reading: keeps the original text and shows the translation underneath each paragraph, using Google Translate or 20+ AI providers with your own key.
+
 
 ### Libraries and tools for developers
 
