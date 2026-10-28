@@ -51,6 +51,8 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 - [LibreTranslate](https://github.com/uav4geo/LibreTranslate) - 100% Self-Hosted web app to translate text, based on Argos Translate.
 
+- [SoloPup Subtitle Studio](https://github.com/OakcoderX/solopup-subtitle-studio) - MIT-licensed local Chinese-to-English subtitle review with paired screens and separate SRT/ITT exports. Existing-subtitle review needs no account; optional cloud AI may incur charges. Public preview.
+
 ## Tools
 
 - [Apertium](https://github.com/apertium) - an open-source tool that offers a variety of tools for developing and maintaining machine translation systems between different languages.
