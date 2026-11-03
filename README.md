@@ -76,6 +76,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Amazon Translate](https://aws.amazon.com/translate/) - A neural machine translation service.
 - [ModernMT](https://www.modernmt.com/) - A self-learning machine translation service that improves from user corrections as user keep using it.
 - [Microsoft Translator](https://translator.microsoft.com/) - A multilingual machine translation cloud service provided by Microsoft.
+- [BabelBot](https://babelbot.app) - Discord bot that auto-translates server chat into 130+ languages. Replies, threads, two-way language channels and voice chat. Free plan.
 
 ### Libraries and tools for developers
 
