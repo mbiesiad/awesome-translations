@@ -65,6 +65,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Argos Translate](https://github.com/argosopentech/argos-translate) - Completely open source offline translation app written in Python and based on OpenNMT. It can also be used as a Python library.
 - [Fink](https://inlang.com/m/tdozzpar) - Translation editor / CAT software with no-code setup and repository-based operation.
 - [Project Fluent](https://projectfluent.org) - Asymetric translations (eg. gender variations) for localization.
+- [Transept](https://transept.ai) - AI translation workspace for books and long documents, with glossaries, style guides, translation memory and DOCX, EPUB and PDF export that keeps the layout.
 
 ## Tools
 
