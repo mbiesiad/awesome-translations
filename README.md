@@ -40,6 +40,7 @@ This list contains tools, books, articles, blogs, courses and everything related
 - [Tolgee](https://tolgee.io) - Open-source, developer & translator friendly platform enabling users to translate directly in the app they develop.
 - [Lokalise](https://lokalise.com/) - Translation platform for developers.
 - [Locize](https://locize.com/) - The continuous localization management platform that powers up your development and translation.
+- [App Store Localizer](https://asolocalization.com) - Web-based localization for App Store listings: machine-translated title, keywords, description, and screenshots in 20+ locales from the public store URL; one-time price.
 
 ## Apps
 
